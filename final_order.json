@@ -1,0 +1,11 @@
+{
+    "pizza": "Margherita",
+    "size": "small",
+    "toppings": [
+        "olives & extra cheese"
+    ],
+    "allergies": "nut allergy",
+    "specialRequests": "no onions",
+    "name": "Shriya Shetty",
+    "address": "Mungersdorfer"
+}
